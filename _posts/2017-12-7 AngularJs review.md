@@ -2,7 +2,7 @@
 layout:     post
 title:      AngularJS Review
 subtitle:   
-date:       2017-12-7
+date:       2017-12-9
 author:     Mengfan
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
